@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial1-Ap2-Padilla", "Parcial1-Ap2-Padilla\Parcial1-Ap2-Padilla.csproj", "{DA2EC726-9CF6-4EA7-A86D-C9EA600DEA85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parcial1-Ap2-Padilla", "Parcial1-Ap2-Padilla\Parcial1-Ap2-Padilla.csproj", "{DA2EC726-9CF6-4EA7-A86D-C9EA600DEA85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial1-Ap2-PadillaTests", "Parcial1-Ap2-PadillaTests\Parcial1-Ap2-PadillaTests.csproj", "{4E68F4E7-772D-4FC7-9F0E-90C196317766}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parcial1-Ap2-PadillaTests", "Parcial1-Ap2-PadillaTests\Parcial1-Ap2-PadillaTests.csproj", "{4E68F4E7-772D-4FC7-9F0E-90C196317766}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
