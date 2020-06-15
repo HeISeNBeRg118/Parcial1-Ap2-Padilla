@@ -13,7 +13,7 @@ namespace Parcial1_Ap2_Padilla.DAL
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionBuilder)
         {
-            optionBuilder.UseSqlite(@"Data Source = C:\Users\Padilla\BD\Parcial1-Ap2.db");
+            optionBuilder.UseSqlite(@"Data Source = DATA\Parcial1-Ap2.db");
         }
     }
 }
