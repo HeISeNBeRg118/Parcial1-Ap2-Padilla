@@ -8,7 +8,7 @@ using Parcial1_Ap2_Padilla.DAL;
 namespace Parcial1_Ap2_Padilla.Migrations
 {
     [DbContext(typeof(Contexto))]
-    [Migration("20200611003233_Migracion_Inicial")]
+    [Migration("20200615175500_Migracion_Inicial")]
     partial class Migracion_Inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
